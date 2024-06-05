@@ -82,5 +82,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quentintyr&count_private=true&show_icons=true&theme=github_dark)
 
 
-<img src="/assets/images/divider.gif">
+<img src="/images/divider.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=quentintyr&label=Profile%20views&color=0e75b6&style=flat" alt="quentintyr" /> </p>
