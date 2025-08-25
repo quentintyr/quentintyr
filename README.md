@@ -8,15 +8,6 @@
 
 <h3>I'm an Apprentice Developer and i'm very <span>Tired</span></h3>
 
-- 📚 I'm currently learning Java, C++ and MySQL)
-- 🎯 2024 Goals
-  - Some Minecraft Plugins
-  - Create a small game with godot
-  - Try out HTML and CSS
-  - Start publishing Minecraft Plugins
-  - Know the Syntax of Java and C++ by heart
-- 🧢 I talk too much
-
 #### Connect with me
 
 <a href="[https://www.instagram.com/bacon_delight/](https://www.instagram.com/vyhgly8ty74y7yk/)"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
